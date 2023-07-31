@@ -1,5 +1,4 @@
-- Hello my name is floaty Horizon!
-- I'm a developer working on games and other projects.
+Hello my name is floaty Horizon, I'm a game developer mostly working on games and sometimes other projects.
 ---
 This is how i label my project versions:<br>&nbsp;&nbsp;
 	Releases:<br>&nbsp;&nbsp;&nbsp;&nbsp;
